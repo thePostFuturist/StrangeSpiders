@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 0d91d4ff41135441cb9007ae4ac43414
+timeCreated: 1444164780
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bridge
+    100002: Factgory
+    100004: Factory
+    100006: FactoryRoof
+    100008: FireStairs
+    100010: PlatformL
+    100012: PlatformR
+    100014: Ramp
+    100016: SpiralStairs
+    100018: StairsFactory
+    100020: StairsPlatformBottom
+    100022: StairsPlatformTop
+    100024: //RootNode
+    100026: StairsFactory.001
+    100028: StairsFactory.002
+    100030: Poles
+    100032: StairsLong
+    400000: Bridge
+    400002: Factgory
+    400004: Factory
+    400006: FactoryRoof
+    400008: FireStairs
+    400010: PlatformL
+    400012: PlatformR
+    400014: Ramp
+    400016: SpiralStairs
+    400018: StairsFactory
+    400020: StairsPlatformBottom
+    400022: StairsPlatformTop
+    400024: //RootNode
+    400026: StairsFactory.001
+    400028: StairsFactory.002
+    400030: Poles
+    400032: StairsLong
+    2300000: Bridge
+    2300002: Factgory
+    2300004: Factory
+    2300006: FactoryRoof
+    2300008: FireStairs
+    2300010: PlatformL
+    2300012: PlatformR
+    2300014: Ramp
+    2300016: SpiralStairs
+    2300018: StairsFactory
+    2300020: StairsPlatformBottom
+    2300022: StairsPlatformTop
+    2300024: StairsFactory.001
+    2300026: StairsFactory.002
+    2300028: Poles
+    2300030: StairsLong
+    3300000: Bridge
+    3300002: Factgory
+    3300004: Factory
+    3300006: FactoryRoof
+    3300008: FireStairs
+    3300010: PlatformL
+    3300012: PlatformR
+    3300014: Ramp
+    3300016: SpiralStairs
+    3300018: StairsFactory
+    3300020: StairsPlatformBottom
+    3300022: StairsPlatformTop
+    3300024: StairsFactory.001
+    3300026: StairsFactory.002
+    3300028: Poles
+    3300030: StairsLong
+    4300000: FactoryRoof
+    4300002: Bridge
+    4300004: Ramp
+    4300006: StairsFactory
+    4300008: Factory
+    4300010: PlatformR
+    4300012: FireStairs
+    4300014: Factgory
+    4300016: StairsPlatformBottom
+    4300018: StairsPlatformTop
+    4300020: SpiralStairs
+    4300022: PlatformL
+    4300024: StairsFactory.002
+    4300026: StairsFactory.001
+    4300028: StairsLong
+    4300030: Poles
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
