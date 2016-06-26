@@ -17,7 +17,7 @@ namespace strangescenes
 
 		CharacterController character_controller;
 
-		void Start()
+		protected override void Start()
 		{
 			character_controller = GetComponent<CharacterController> ();
 		}

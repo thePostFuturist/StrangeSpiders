@@ -18,7 +18,7 @@ namespace strangescenes
 			}
 		}
 
-		void Start()
+		protected override void Start()
 		{
 			button_play.onClick.AddListener ( ()=> {
 				ToggleActive(false);
