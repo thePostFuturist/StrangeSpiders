@@ -61,9 +61,11 @@ namespace strangescenes
 
 		void Destroy()
 		{
-			StopAllCoroutines();
 			if (this != null)
-				Object.DestroyObject (this.gameObject);			
+			{
+				StopAllCoroutines();
+				Object.DestroyObject (this.gameObject);	
+			}		
 		}
 			
 		void DispatchExplodeSignal() 
